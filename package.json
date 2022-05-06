@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "combined-stream": "^1.0.8",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+}
